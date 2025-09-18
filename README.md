@@ -1,29 +1,27 @@
-# README #
+# HouseRental 🏠📱
 
-This README would normally document whatever steps are necessary to get your application up and running.
+An Android application for **house owners, buyers, and renters** to buy, rent, and sell properties.  
+Includes features like **real-time chat**, **voice commands**, and integration with external rental listings.
 
-### What is this repository for? ###
+---
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## ✨ Features
+- 📋 Post and browse house rentals or sales.
+- 💬 Real-time chat between buyers, renters, and owners.
+- 🎙 Voice command support for quick actions.
+- 🔗 View rental posts from external sources.
+- 📱 Simple and clean Android UI.
 
-### How do I get set up? ###
+---
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## 🚀 Getting Started
 
-### Contribution guidelines ###
+### Prerequisites
+- Android Studio (latest version recommended)  
+- Java 8+ or Kotlin (depending on project codebase)  
+- Android SDK 21+  
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/wolfy01/HouseRental.git
