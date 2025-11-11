@@ -67,4 +67,3 @@ Expand external API integration for more rental platforms.
 ## 👨‍💻 Author
 
 Built by Nihal Azman
-GitHub: @wolfy01
