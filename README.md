@@ -2,7 +2,7 @@
 
 A full‑stack Android experience for discovering, listing, and discussing rental properties. HouseRent combines real‑time listings, voice‑first workflows, and map‑based discovery so renters and owners can move from search to conversation in minutes.
 
-## Product Summary (Recruiter‑Friendly)
+## Product Summary 
 HouseRent is an Android application that helps owners publish property listings and lets renters or buyers discover them through traditional search, voice search, and location‑aware maps. The app also enables real‑time chat (including voice messages) so users can negotiate and coordinate without leaving the platform. It integrates with external listing sources and brings those posts into the app for broader market visibility.
 
 ## Core Functionality
